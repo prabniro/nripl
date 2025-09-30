@@ -1,0 +1,1 @@
+It is a static single-page website (SPA-style) built with plain HTML, CSS, and JavaScript. It's designed to showcase natural herbal oils, educate visitors about ingredients and benefits, collect leads, and convert visitors into customers with a clean, organic aesthetic.
